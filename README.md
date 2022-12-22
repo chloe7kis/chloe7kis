@@ -4,6 +4,8 @@
 - 📫 UM-SJTU Joint Institute ECE undergraduate
 - ⚡ Computing, Mathematics, Physics
 
+![Chloe_h's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chloehz&count_private=true&show_icons=true&theme=apprentice)
+
 <!--
 **Chloehz/Chloehz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
