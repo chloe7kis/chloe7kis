@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌱 This is Chloe_h
-- 📫 UM-SJTU Joint Institute ECE undergraduate
+- ✨ This is Chloe_h
+- 🌱 UM-SJTU Joint Institute ECE undergraduate
 - ⚡ Computing, Mathematics, Physics
+- 📫 [sevenkishuang@gmail.com](mailto:sevenkishuang@gmail.com)
 
 ![Chloe_h's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chloehz&count_private=true&show_icons=true&theme=apprentice)
 
