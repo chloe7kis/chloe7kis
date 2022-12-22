@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ✨ This is Chloe_h
+- ✨ This is Chloe_h, [here](https://chloehz.github.io/) is my blog
 - 🌱 UM-SJTU Joint Institute ECE undergraduate
 - ⚡ Computing, Mathematics, Physics
 - 📫 [sevenkishuang@gmail.com](mailto:sevenkishuang@gmail.com)
