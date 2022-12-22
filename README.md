@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 This is Chloe_h
+📫 UM-SJTU Joint Institute ECE undergraduate
+⚡ Computing, Mathematics, Physics
+
 <!--
 **Chloehz/Chloehz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
