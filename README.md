@@ -4,6 +4,8 @@
 - 📫 UM-SJTU Joint Institute ECE undergraduate
 - ⚡ Computing, Mathematics, Physics
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Chloehz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Chloehz/Chloehz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
