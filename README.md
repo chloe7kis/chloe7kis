@@ -4,6 +4,7 @@
 - 🌱 UM-SJTU Joint Institute ECE undergraduate
 - ⚡ Computing, Mathematics, Physics
 - 📫 [sevenkishuang@gmail.com](mailto:sevenkishuang@gmail.com)
+- 🔭 I’m currently working on orbital edge computing in LEO satellite constellations
 
 ![Chloe_h's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chloehz&count_private=true&show_icons=true&theme=apprentice)
 
