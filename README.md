@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ✨ This is Chloe_h
-- 🌱 UM-SJTU Joint Institute ECE undergraduate
+- 🌱 UM-SJTU Joint Institute ECE BS, UMich Ann Arbor DS BSE (Dual Degree)
 - ⚡ Computing, Mathematics, Physics
 - 📫 [sevenkishuang@gmail.com](mailto:sevenkishuang@gmail.com)
 - 🔭 I’m currently working on relay selection problem for LEO satellite constellations
