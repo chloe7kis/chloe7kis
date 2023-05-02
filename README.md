@@ -4,7 +4,7 @@
 - 🌱 SJTU ECE BE, UMich Ann Arbor DS BSE (Dual Degree)
 - ⚡ Computing, Mathematics, Physics
 - 📫 [sevenkishuang@gmail.com](mailto:sevenkishuang@gmail.com)
-- 🔭 I’m currently working on relay selection problem for LEO satellite constellations
+- 🔭 I’m currently working on how to sleep more
 
 ![Chloe_h's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chloehz&count_private=true&show_icons=true&theme=apprentice)
 
