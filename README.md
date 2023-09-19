@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ✨ This is Chloe_h
+- ✨ This is Ch7oe
 - 🌱 SJTU ECE BE, UMich Ann Arbor DS BSE (Dual Degree)
 - ⚡ Computing, Mathematics, Physics
 - 📫 [sevenkishuang@gmail.com](mailto:sevenkishuang@gmail.com)
