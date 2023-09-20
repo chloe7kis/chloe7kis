@@ -4,7 +4,7 @@
 - 🌱 SJTU ECE BE, UMich Ann Arbor DS BSE (Dual Degree)
 - ⚡ Computing, Mathematics, Physics
 - 📫 [sevenkishuang@gmail.com](mailto:sevenkishuang@gmail.com)
-- 🔭 I’m currently working on how to sleep more
+- 🔭 I’m currently working on how to cook
 
 ![Ch7oe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe7kis&count_private=true&show_icons=true&theme=apprentice)
 
