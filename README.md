@@ -6,7 +6,7 @@
 - 📫 [sevenkishuang@gmail.com](mailto:sevenkishuang@gmail.com)
 - 🔭 I’m currently working on how to sleep more
 
-![Ch7oe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe_7kis&count_private=true&show_icons=true&theme=apprentice)
+![Ch7oe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe7kis&count_private=true&show_icons=true&theme=apprentice)
 
 <!--
 **Ch7oe/Ch7oe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
