@@ -2,7 +2,7 @@
 
 - ✨ This is Ch7oe
 - 🌱 SJTU ECE BE, UMich Ann Arbor DS BSE (Dual Degree)
-- ⚡ Computing, Mathematics, Physics
+- ⚡ [My blog](chloe7kis.github.io/about)
 - 📫 [chloehjh@umich.edu](mailto:chloehjh@umich.edu)
 - 🔭 I’m currently working on how to cook
 
