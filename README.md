@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ✨ This is Ch7oe
+- ✨ This is Chloe
 - 🌱 SJTU ECE BE, UMich Ann Arbor DS BSE (Dual Degree)
 - ⚡ [My blog](https://chloe7kis.github.io/about)
 - 📫 [chloehjh@umich.edu](mailto:chloehjh@umich.edu)
