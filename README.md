@@ -4,7 +4,7 @@
 - 🌱 SJTU ECE BE, UMich Ann Arbor DS BSE (Dual Degree)
 - ⚡ [My blog](https://chloe7kis.github.io/about)
 - 📫 [chloehjh@umich.edu](mailto:chloehjh@umich.edu)
-- 🔭 I’m currently working on how to cook
+- 🔭 I’m currently working on how to eat well without cooking
 
 ![Ch7oe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe7kis&count_private=true&show_icons=true&theme=apprentice)
 
