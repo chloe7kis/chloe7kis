@@ -2,7 +2,7 @@
 
 - ✨ This is Chloe
 - 🌱 SJTU ECE BE, UMich Ann Arbor DS BSE (Dual Degree)
-- ⚡ [My blog](https://www.chloe7kis.github.io/about)
+- ⚡ [My blog](https://chloe7kis.github.io/about)
 - 📫 [chloehjh@umich.edu](mailto:chloehjh@umich.edu)
 - 🔭 I’m currently working on how to eat well without cooking
 
