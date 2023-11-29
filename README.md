@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- ✨ This is Chloe
-- 🌱 SJTU ECE BE, UMich Ann Arbor DS BSE (Dual Degree)
+- ✨ This is Jiahe (Chloe) Huang
+- 🌱 SJTU ECE BE, UMich Ann Arbor DS BSE (Dual Degree) '25
 - ⚡ [My blog](https://jhhuang.tech)
 - 📫 [chloehjh@umich.edu](mailto:chloehjh@umich.edu)
 - 🔭 I’m currently working on how to eat well without cooking :)
 
-![Ch7oe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe7kis&count_private=true&show_icons=true&theme=apprentice)
+![Ch7oe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhhuangchloe&count_private=true&show_icons=true&theme=apprentice)
 
 <!--
 **Ch7oe/Ch7oe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
