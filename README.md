@@ -6,10 +6,7 @@
 - 📫 [chloehjh@umich.edu](mailto:chloehjh@umich.edu)
 - 🔭 I’m currently working on how to eat well without cooking :)
 
-![Chloe+h's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhhuangchloe&count_private=true&show_icons=true&theme=apprentice)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhuangchloe&layout=compact&theme=apprentice)
-
-<a href="https://jhhuang.tech/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=jhhuangchloe&count_private=true&show_icons=true&theme=apprentice)" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhhuangchloe&layout=compact&theme=apprentice" /></a>
+<a href="https://jhhuang.tech/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=jhhuangchloe&count_private=true&show_icons=true&theme=apprentice" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhhuangchloe&layout=compact&theme=apprentice" /></a>
 
 
 <!--
