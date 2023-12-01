@@ -11,7 +11,7 @@
     <a href="https://jhhuang.tech/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/jhhuang_chloe/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=jhhuangchloe&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 <a href="https://jhhuang.tech/"><img height="173px" src="https://github-readme-stats.vercel.app/api?username=jhhuangchloe&count_private=true&show_icons=true&theme=apprentice" /><!-- wi*quL3fcV --><img height="173px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhhuangchloe&count_private=true&layout=compact&theme=apprentice" /></a>
