@@ -2,7 +2,7 @@
 
 - ✨ This is Jiahe (Chloe) Huang
 - 🌱 SJTU ECE BE, UMich Ann Arbor DS BSE (Dual Degree) '25
-- ⚡ [My blog](https://jhhuang.tech)
+- ⚡ [My Site](https://jhhuang.tech)
 - 📫 [chloehjh@umich.edu](mailto:chloehjh@umich.edu)
 - 🔭 I’m currently working on how to eat well without cooking :)
 
